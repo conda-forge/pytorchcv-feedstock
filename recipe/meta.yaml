@@ -39,7 +39,7 @@ about:
   home: https://github.com/osmr/imgclsmob
   summary: Image classification and segmentation models for PyTorch
   license: MIT
-  license_file: LICENSE.txt
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:
