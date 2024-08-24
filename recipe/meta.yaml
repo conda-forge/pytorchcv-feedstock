@@ -1,5 +1,5 @@
 {% set name = "pytorchcv" %}
-{% set version = "0.0.68" %}
+{% set version = "0.0.69" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pytorchcv-{{ version }}.tar.gz
-  sha256: 1798e555bd9572945c42e89f5df49dd85c0fae21f355261547e730f90ba319ae
+  sha256: bfd491d89d8a6c06e1892f3618a825cace5a07e0f1d9c93b9cec34cb7cd2f23d
 
 build:
   noarch: python
