@@ -1,5 +1,6 @@
 {% set name = "pytorchcv" %}
 {% set version = "0.0.73" %}
+{% set python-min = "3.10" %}
 
 package:
   name: {{ name|lower }}
